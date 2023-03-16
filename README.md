@@ -1,9 +1,5 @@
-<text align="center">
+> WIP
 
-> 📦 developing
+# QQ 猫娘机器人
 
-</text>
-
-# Flask Practice
-
-基于 flask 实现一个简单地网页，有基本的增删查改功能。
+做一个qq机器人吧！
